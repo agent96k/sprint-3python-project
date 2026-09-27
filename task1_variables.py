@@ -50,4 +50,4 @@ print(f"The average global sales across all games is ({avg_global_sales}).")
 
 top_game_share = video_game_sales[0][GLOBAL_SALES] / total_sales * 100
 
-print(f"The top game share is ({top_game_share})")# write your code here
+print(f"The top game share is ({top_game_share})")
